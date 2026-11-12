@@ -1,6 +1,6 @@
 # WebLinkExtractor
 
-**Free macOS Link Extractor | Бесплатная программа для извлечения ссылок**
+![WebLinkExtractor — интерфейс программы](WebLinkExtractor-Screenshot.png)**Free macOS Link Extractor | Бесплатная программа для извлечения ссылок**
 
 A free, bilingual macOS application for extracting links from web pages.
 
